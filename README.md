@@ -2,11 +2,11 @@
 
 A Data Analytics professional covering Business Improvement and IT Support.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ichsanx&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=ichsanx&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ichsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichsanx&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichsanx&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanx&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanx&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 - 📊 Data Analyst | Data Scientist | Software Engineer | Business Improvement Specialist
