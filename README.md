@@ -15,3 +15,4 @@ A Data Analytics professional covering Business Improvement and IT Support.
 - [dms-fullstack-cybermax-v6](https://github.com/ichsanx/dms-fullstack-cybermax-v6)
 - [dms-backend-cybermax-v6](https://github.com/ichsanx/dms-backend-cybermax-v6)
 - [Portfolio-Ichsan-Saputra](https://github.com/ichsanx/Portfolio-Ichsan-Saputra)
+- [Visualization-with-Tableau](https://github.com/ichsanx/Visualization-with-Tableau?tab=readme-ov-file)
