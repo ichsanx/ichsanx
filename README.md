@@ -9,10 +9,10 @@ A Data Analytics professional covering Business Improvement and IT Support.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanx&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
-- 📊 Data Analytics
+- 📊 Data Analyst | Data Scientist | Software Engineer | Business Improvement Specialist
 - 💼 Business Improvement & IT Support
 - 🌐 Portfolio: https://ichsanx.github.io/curriculum_vitae/
-- 🔗 LinkedIn: tambahkan_link_linkedin_anda
+- 🔗 LinkedIn: https://www.linkedin.com/in/ichsan-saputra-561299101/
 
 ## Featured Projects
 - [curriculum_vitae](https://github.com/ichsanx/curriculum_vitae)
