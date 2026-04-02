@@ -41,7 +41,7 @@ I enjoy transforming data into useful insights, supporting operational efficienc
 
 ## Featured Projects
 
-- [**Curriculum_Vitae**](https://github.com/ichsanx/curriculum_vitae)<br>
+- [**Curriculum_Vitae**](https://ichsanx.github.io/curriculum_vitae/)<br>
   Personal CV website and portfolio showcase.
 
 - [**Visualization-with-Tableau**](https://github.com/ichsanx/Visualization-with-Tableau)<br>
