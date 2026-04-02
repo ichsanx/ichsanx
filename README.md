@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ichsan Saputra 👋
 
-<!--
-**ichsanx/ichsanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Data Analytics professional covering Business Improvement and IT Support.
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=ichsanx&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ichsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichsanx&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichsanx&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## About Me
+- 📊 Data Analytics
+- 💼 Business Improvement & IT Support
+- 🌐 Portfolio: https://ichsanx.github.io/curriculum_vitae/
+- 🔗 LinkedIn: tambahkan_link_linkedin_anda
+
+## Featured Projects
+- [curriculum_vitae](https://github.com/ichsanx/curriculum_vitae)
+- [dms-fullstack-cybermax-v6](https://github.com/ichsanx/dms-fullstack-cybermax-v6)
+- [dms-backend-cybermax-v6](https://github.com/ichsanx/dms-backend-cybermax-v6)
+- [Portfolio-Ichsan-Saputra](https://github.com/ichsanx/Portfolio-Ichsan-Saputra)
