@@ -44,7 +44,7 @@ I enjoy transforming data into useful insights, supporting operational efficienc
 - [**Curriculum_Vitae**](https://github.com/ichsanx/curriculum_vitae)
   Personal CV website and portfolio showcase.
 
-- [**Visualization-with-Tableau**](https://github.com/ichsanx/Visualization-with-Tableau)  
+- [**Visualization-with-Tableau**](https://github.com/ichsanx/Visualization-with-Tableau)
   Data visualization and dashboard portfolio using Tableau.
 
 - [**INSIGHT-DATA-SALES-PT.-TUMBUH-BERSAMA**](https://github.com/ichsanx/INSIGHT-DATA-SALES-PT.-TUMBUH-BERSAMA?tab=readme-ov-file)
