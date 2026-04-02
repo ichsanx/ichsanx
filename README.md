@@ -2,9 +2,9 @@
 
 # Hi, I'm Ichsan Saputra 👋
 
-### Data Analytics • Business Improvement • IT Support
+### Data Analyst | Business Improvement Specialist | IT Support Professional
 
-Passionate about turning data into insights and building solutions that improve business processes.
+Experienced in turning data into actionable insights, improving business processes, and supporting practical IT solutions.
 
 [![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=ichsanx&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -12,56 +12,66 @@ Passionate about turning data into insights and building solutions that improve 
 
 ---
 
-## About Me
+## Professional Summary
 
-- 📊 Focused on **Data Analytics**, **Business Improvement**, and **IT Support**
-- 💻 Interested in building practical solutions for reporting, dashboards, and operational efficiency
-- 🚀 Continuously improving my portfolio through real projects and case studies
-- 🌐 Portfolio: [ichsanx.github.io/curriculum_vitae](https://ichsanx.github.io/curriculum_vitae/)
-- 🔗 LinkedIn: [linkedin.com/in/ichsan-saputra-561299101](https://www.linkedin.com/in/ichsan-saputra-561299101/)
+I am a professional with a strong interest in **Data Analytics**, **Business Improvement**, and **IT Support**.  
+I enjoy transforming data into useful insights, supporting operational efficiency, and building practical solutions that help organizations work better.
 
 ---
 
-## What I Do
+## Core Expertise
 
-- Analyze data and turn it into meaningful business insights
-- Support digital and operational improvement initiatives
-- Build and document portfolio projects related to analytics and software
-- Explore practical technology solutions for business needs
+- Data Analysis & Reporting
+- Dashboard & Visualization
+- Business Process Improvement
+- IT Support & Problem Solving
+- Software & System Documentation
+- Operational Efficiency
+
+---
+
+## What I Bring
+
+- 📊 Ability to analyze data and convert it into meaningful business insights
+- ⚙️ Experience in supporting process improvement and operational effectiveness
+- 💻 Practical understanding of IT support and digital solution implementation
+- 🚀 Strong initiative to build portfolio-based projects and continuous improvement
 
 ---
 
 ## Featured Projects
 
 - [**curriculum_vitae**](https://github.com/ichsanx/curriculum_vitae)  
-  Personal CV website and portfolio showcase
-
-- [**dms-fullstack-cybermax-v6**](https://github.com/ichsanx/dms-fullstack-cybermax-v6)  
-  Fullstack project for document management system
-
-- [**dms-backend-cybermax-v6**](https://github.com/ichsanx/dms-backend-cybermax-v6)  
-  Backend service for DMS application
-
-- [**Portfolio-Ichsan-Saputra**](https://github.com/ichsanx/Portfolio-Ichsan-Saputra)  
-  Personal portfolio repository
+  Personal CV website and portfolio showcase.
 
 - [**Visualization-with-Tableau**](https://github.com/ichsanx/Visualization-with-Tableau)  
-  Data visualization and dashboard portfolio using Tableau
+  Data visualization and dashboard portfolio using Tableau.
+
+- [**dms-fullstack-cybermax-v6**](https://github.com/ichsanx/dms-fullstack-cybermax-v6)  
+  Fullstack document management system project.
+
+- [**dms-backend-cybermax-v6**](https://github.com/ichsanx/dms-backend-cybermax-v6)  
+  Backend service for document management system development.
+
+- [**Portfolio-Ichsan-Saputra**](https://github.com/ichsanx/Portfolio-Ichsan-Saputra)  
+  Personal portfolio repository containing selected work and projects.
 
 ---
 
-## Professional Interests
+## Career Interests
 
-- Data Analytics
-- Dashboard & Reporting
-- Business Process Improvement
+I am particularly interested in roles related to:
+
+- Data Analyst
+- Business Improvement
 - IT Support
-- Software Development
-- Operational Efficiency
+- Reporting & Dashboard Development
+- Operational Excellence
+- Software / System Support
 
 ---
 
-## Let's Connect
+## Connect With Me
 
 - 🌐 Portfolio: [ichsanx.github.io/curriculum_vitae](https://ichsanx.github.io/curriculum_vitae/)
 - 💼 LinkedIn: [linkedin.com/in/ichsan-saputra-561299101](https://www.linkedin.com/in/ichsan-saputra-561299101/)
@@ -70,6 +80,6 @@ Passionate about turning data into insights and building solutions that improve 
 
 <div align="center">
 
-_Thanks for visiting my profile._
+**Thank you for visiting my GitHub profile.**
 
 </div>
