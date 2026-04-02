@@ -47,6 +47,9 @@ I enjoy transforming data into useful insights, supporting operational efficienc
 - [**Visualization-with-Tableau**](https://github.com/ichsanx/Visualization-with-Tableau)  
   Data visualization and dashboard portfolio using Tableau.
 
+- [**INSIGHT-DATA-SALES-PT.-TUMBUH-BERSAMA**](https://github.com/ichsanx/INSIGHT-DATA-SALES-PT.-TUMBUH-BERSAMA?tab=readme-ov-file)
+  Sales insight dashboard and business analysis project
+
 - [**dms-fullstack-cybermax-v6**](https://github.com/ichsanx/dms-fullstack-cybermax-v6)  
   Fullstack document management system project.
 
